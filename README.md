@@ -1,6 +1,6 @@
 ## 🚀 How to Submit Your Presentation (GitHub Web Interface)
 
-> No command line or Git knowledge required!
+
 
 ### 1. **Fork this repository**
 - Click the **Fork** button (top right)
