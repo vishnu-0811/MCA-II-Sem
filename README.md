@@ -37,4 +37,4 @@ If you get stuck, feel free to reach out to for help.
 
 ---
 
-Thanks for contributing and good luck with your presentations! 🎉
+
